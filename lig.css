@@ -1,0 +1,94 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+
+
+body{
+
+    margin: 20px;
+}
+/* Components */
+/* Buttons */
+
+.btn-rounded{
+    border-radius: 20px;
+}
+
+.btn-pie{
+    border-radius: 0px 10px 0px 10px;
+}
+
+.btn-circle{
+    border-radius: 50%;
+}
+
+
+
+
+
+.btn-red{
+    color: white;
+    background-color: red;
+    border-color: red;
+}
+
+.btn-red:hover{
+    color:white;
+    background-color:rgb(235, 57, 57);
+    
+    
+    
+}
+
+
+
+.btn-orange {
+    background-color: orange;
+    color: white;
+    border-color: orange;
+}
+.btn-orange:hover{
+    color:white;
+    background-color: rgba(255, 166, 0, 0.712);
+}
+.btn-yellow {
+    background-color: rgb(224, 224, 14);
+    border-color: rgb(224, 224, 14);
+    color: black;
+}
+.btn-yellow:hover{
+    color:white;
+    background-color:rgba(224, 224, 14, 0.692);
+}
+.btn-green {
+    background-color: rgb(29, 187, 29);
+    border-color: rgb(29, 187, 29);
+    color: white;
+}
+.btn-green:hover{
+    background-color: rgba(29, 187, 29, 0.699);
+    border-color: rgba(29, 187, 29, 0.699);
+    color: white;
+}
+
+.btn-blue {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+.btn-blue:hover {
+    background-color: rgba(71, 71, 207, 0.692);
+    border-color: rgba(71, 71, 207, 0.705);
+    color: white;
+}
+.btn-pink {
+    background-color: hotpink;
+    border-color: hotpink;
+    color: white;
+}
+.btn-pink:hover {
+    background-color: rgba(255, 105, 180, 0.692);
+    border-color: rgba(255, 105, 180, 0.692);
+    color: white;
+}
+
+
